@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Elyott/connecting-from-javascript#readme",
   "dependencies": {
+    "knex": "^0.14.4",
     "pg": "^7.4.1"
   }
 }
